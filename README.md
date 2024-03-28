@@ -1,7 +1,3 @@
-Certainly! Below is the updated README file with the addition of license information:
-
----
-
 # Telegram Bot
 
 This is a Telegram bot implemented using Python's aiogram library. The bot handles user authorization, admin privileges, and various commands for communication and user management.
