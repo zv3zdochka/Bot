@@ -1,6 +1,9 @@
+
+---
+
 # Telegram Bot
 
-This is a Telegram bot implemented using Python's aiogram library. The bot handles user authorization, admin privileges, and various commands for communication and user management.
+This is a Telegram bot implemented using the aiogram library in Python. The bot manages user authorization, admin privileges, and various commands for communication and user management.
 
 ## Installation
 
@@ -66,13 +69,12 @@ This is a Telegram bot implemented using Python's aiogram library. The bot handl
 - `/free <user_id>`: Release a user from ban.
 - `/delete <user_id>`: Delete a user.
 
+## License
+
+This project is licensed under the MIT License.
+
 ## Contributions
 
 Contributions to improve and extend the functionality of this bot are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [Author's Terms](LICENSE). Modification and redistribution are only permitted with the author's consent.
-
-
-
+---
